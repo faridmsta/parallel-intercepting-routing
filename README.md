@@ -5,7 +5,7 @@ Welcome! This repository contains the **source code for the "Next.js Parallel & 
 If you’re here from the video, this repo is your hands-on example to explore **modern modal implementation** in Next.js using **parallel and inceptional routing**.
 
 <br/>
-<img src="https://github.com/faridmsta/parallel-intercepting-routes/blob/main/public/thumbnail.png?raw=true" alt="Youtube video Thumbnail" width="100%">
+<img src="https://github.com/faridmsta/parallel-intercepting-routing/blob/main/public/thumbnail.png" alt="Youtube video Thumbnail" width="100%">
 
 
 ---
